@@ -10,7 +10,10 @@ Provide an integer that you would like to add 4 to. The function will throw an e
   const test = add4(4);
 
   console.log(test) // Prints 8 to the console
-
 ```
+
+## Purpose
+
+Getting started with publishing NPM packages
 
 
