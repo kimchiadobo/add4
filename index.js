@@ -1,7 +1,1 @@
-module.exports = props => {
-  if (!Number.isInteger(props)) {
-    throw "Please enter a valid integer"
-  }
-
-  return props + 4;
-}
+module.exports = val => isInteger(val) ? val + 4 : 'Please enter a valid integer';
