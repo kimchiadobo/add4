@@ -1,1 +1,1 @@
-module.exports = val => isInteger(val) ? val + 4 : 'Please enter a valid integer';
+module.exports = val => Number.isInteger(val) ? val + 4 : 'Please enter a valid integer';
