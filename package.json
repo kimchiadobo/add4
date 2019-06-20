@@ -1,6 +1,6 @@
 {
   "name": "add4",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Adds 4 to a provided integer",
   "main": "index.js",
   "scripts": {
